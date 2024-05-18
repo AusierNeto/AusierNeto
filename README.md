@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 ![banner](https://github.com/AusierNeto/AusierNeto/assets/67720117/cdfc3c6b-4177-4cb6-8722-093a3728830d)
 
