@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![banner](https://github.com/AusierNeto/AusierNeto/assets/67720117/cdfc3c6b-4177-4cb6-8722-093a3728830d)
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AusierNeto)](https://github.com/anuraghazra/github-readme-stats)
 
