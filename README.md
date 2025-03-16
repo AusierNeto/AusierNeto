@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ausier Neto</h1>
 <h3 align="center">Developer and Entrepreneur</h3>
 
-- 🔭 I’m currently working on **Landing Page Development**
+- 🔭 I’m currently working on **Software as a Service**
 
-- 🌱 I’m currently learning **Angular Framework and GoLang**
+- 🌱 I’m currently learning **React Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
