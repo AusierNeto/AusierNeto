@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fullstack React + Fastapi project**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **AI Agents With Crew AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
